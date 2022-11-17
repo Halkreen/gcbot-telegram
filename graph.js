@@ -383,6 +383,7 @@ var myChart = new Chart(ctx, {
     ],
   },
   options: {
+    maintainAspectRatio: false,
     scales: {
         xAxes: [{
             ticks: {
