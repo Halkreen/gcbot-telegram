@@ -378,6 +378,7 @@ var myChart = new Chart(ctx, {
         label: "Bankroll",
         borderColor: "rgb(62,149,205)",
         backgroundColor: "rgb(62,149,205,0.1)",
+        pointRadius: 0
       },
     ],
   },
