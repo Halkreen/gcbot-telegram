@@ -413,6 +413,30 @@ var results = [
     provider: "Winamax",
     date: 1669142125,
   },
+  {
+    winnings: 12.5,
+    bet: " Espagne marque dans les deux mi-temps",
+    provider: "Winamax",
+    date: 1669218318,
+  },
+  {
+    winnings: -10,
+    bet: " Les deux équipes marquent lors du match",
+    provider: "Winamax",
+    date: 1669229427,
+  },
+  {
+    winnings: -10,
+    bet: " Cameroun marque au moins un but",
+    provider: "Winamax",
+    date: 1669283422,
+  },
+  {
+    winnings: -10,
+    bet: " Uruguay gagne ou fait match nul et plus de 1,5 buts dans le match",
+    provider: "Winamax",
+    date: 1669293921,
+  },
 ];
 
 var dataset = [0];
