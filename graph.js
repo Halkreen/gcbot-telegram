@@ -575,6 +575,78 @@ var results = [
     provider: "Winamax",
     date: 1669905018,
   },
+  {
+    winnings: -10,
+    bet: " Allemagne et Espagne gagnent chacun leur match",
+    provider: "Winamax",
+    date: 1669919421,
+  },
+  {
+    winnings: -10,
+    bet: " C. Ronaldo ou D. Nunez buteur",
+    provider: "Winamax",
+    date: 1669991719,
+  },
+  {
+    winnings: -10,
+    bet: " Plus de 1,5 buts lors de chacun des matchs suivants : Cameroun - Brésil et Serbie - Suisse",
+    provider: "Winamax",
+    date: 1670006125,
+  },
+  {
+    winnings: 15,
+    bet: " Pays-Bas gagne ou fait match nul et plus de 1,5 buts dans le match (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670077833,
+  },
+  {
+    winnings: 15,
+    bet: " Lionel Messi marque et son équipe gagne (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670092224,
+  },
+  {
+    winnings: 11.5,
+    bet: " France marque le prochain but (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670169017,
+  },
+  {
+    winnings: 10,
+    bet: " France gagne et plus de 1,5 but dans le match (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670164258,
+  },
+  {
+    winnings: 10,
+    bet: " La France marque au moins 9 buts pendant la compétition (hors TAB)",
+    provider: "Winamax",
+    date: 1668798018,
+  },
+  {
+    winnings: 20,
+    bet: " Harry Kane marque et son équipe gagne (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670178920,
+  },
+  {
+    winnings: 10,
+    bet: " Le Japon marque au moins 1 but (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670250624,
+  },
+  {
+    winnings: 10,
+    bet: " Richarlison ou Vinicius Jr buteur (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670264716,
+  },
+  {
+    winnings: -10,
+    bet: " Maroc marque au moins 1 but (hors prol. et TAB)",
+    provider: "Winamax",
+    date: 1670337019,
+  }
 ];
 
 var dataset = [0];
