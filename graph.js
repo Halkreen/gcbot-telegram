@@ -1,5 +1,5 @@
 var results = []
-fetch('./results.json').then(response => results = response.json())
+fetch('./result.json').then(response => results = JSON.parse(response))
 
 var dataset = [0];
 for (let i = 0; i < results.length; i++) {
