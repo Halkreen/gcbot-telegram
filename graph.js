@@ -1,4 +1,4 @@
-fetch("./result.json").then((response) => {
+fetch("./results.json").then((response) => {
   response.json().then((results) => {
     console.log(results);
 
